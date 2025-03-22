@@ -2,3 +2,6 @@
 data/
 .idea/
 PubMed-and-PMC-w2v.bin
+*.pth
+*.csv
+results_generalRe/
