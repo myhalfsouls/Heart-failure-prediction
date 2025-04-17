@@ -1,8 +1,3 @@
-# CSE6250 Big Data for Healthcare Final Project
-
-## Team members
-Yi Zhang and Nian Liu
-
 ## Overview
 The goal of this project is to reproduce the main results from the paper "Predicting Heart Failure Readmission from Clinical Notes Using Deep Learning" by Liu et al. Specifically, the original paper applies convolutional neural networks (CNNs) for natural language processing (NLP) tasks, learning from electronic health record (EHR) discharge notes related to heart failture in order to predict probability of readmission. The paper also compares results obtained from CNNs with traditional machine learning techniques such as random forests. Here, we recreate both the CNN model and the random forest model, and compare the test results against what was reported in the publication. Additionally, we also build a transformer model, which is designed specifically for NLP tasks, to explore whether prediction performance on the same task can be further improved.
 
